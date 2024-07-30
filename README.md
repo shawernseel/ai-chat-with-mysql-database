@@ -1,1 +1,1 @@
-# ai-chat-with-mysql
+ai-chat-with-mysql-database
